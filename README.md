@@ -27,7 +27,7 @@ Hosted via **Heroku** for the frontend, with backend integrations for form handl
 
 ---
 
-## 🎨 Assets Overview (Located in `/assets/`)
+## 🎨 Assets Overview 
 
 <p align="center">
   <img src="assets/corastudio_jobs.png" alt="Esther Cora & A Coruña Fotografía, Previous Work " width="820">
